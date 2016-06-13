@@ -6,16 +6,16 @@ All rights reserved.
 
 SimpleGUI is a Text-to-Speech software with simple GUI.
 This software is a sample code to use Gyutan.
-Thanks to HTS working group, speech synthesis can be used easier. 
+Thanks to HTS working group, speech synthesis can be used easier.
 
 ## How to use
 See bin/SimpleGUI.sh (OS X, linux) or bin/SimpleGUI.bat (Windows)
 To run, you need some libraries.
- * Sasakama(Sasakama.jar)
- * HTS voice (htsvoice)
- * Gyutan(Gyutan.jar)
- * Japanese morphological analyzer(sen.jar, junit.jar, commons-logging.jar)
- * dictionary(sen/{dic, conf})
+ * Sasakama(Sasakama.jar) :<https://github.com/icn-lab/Sasakama>
+ * HTS voice (htsvoice) :<https://github.com/icn-lab/htsvoice-tohoku-f01>
+ * Gyutan(Gyutan.jar) :<https://github.com/icn-lab/Gyutan>
+ * Japanese morphological analyzer(sen.jar, junit.jar, commons-logging.jar) :<https://github.com/icn-lab/Gyutan>
+ * dictionary(sen/{dic, conf}) :<https://github.com/icn-lab/Gyutan>
 
 To set your environment, edit bin/SimpleGUI.sh.
 
